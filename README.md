@@ -1,2 +1,9 @@
-# webterv
-𝔚𝔢𝔟𝔱𝔢𝔯𝔳𝔢𝔷𝔢𝔰 𝔭𝔯𝔬𝔧𝔢𝔨𝔱𝔪𝔲𝔫𝔨𝔞
+# Webtervezés
+
+Egy jóslással és egyéb spirituális tevékenységekkel foglalkozó fiktív cég weboldalát készítettük el.
+
+```plaintext
+          ∧,,,∧
+        ( ̳• · • ̳)
+        /    づ🔮
+```
